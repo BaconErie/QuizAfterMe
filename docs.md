@@ -24,4 +24,5 @@ Step blocks
 
 - Set value of variable
 - Generate value where (), assign value to ()
-- 
+- Create variables
+- Like you know operate with the variables like with math and with like operators like +-/* ^ sqrt ETC yeah you know right
